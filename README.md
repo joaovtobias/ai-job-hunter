@@ -132,6 +132,6 @@ python automacao_whatsapp.py --horas 4
 ## 👨‍💻 Autor
 
 Desenvolvido por **João Victor Tobias**  
-- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/)  
+- LinkedIn: [Joao Vitor Tobias Mariani](https://www.linkedin.com/in/jo%C3%A3o-vitor-tobias-mariani-ba320a374/)  
 - GitHub: [@joaovtobias](https://github.com/joaovtobias)
 
