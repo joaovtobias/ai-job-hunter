@@ -1,0 +1,5 @@
+venv/
+.venv/
+__pycache__/
+vagas_ia.db
+.env
